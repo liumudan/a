@@ -8,9 +8,7 @@ public class Transmogrify {
 		s.change();
 		s.go();
 	}
-
 }
-
 interface Actor{
 	void act();
 }
