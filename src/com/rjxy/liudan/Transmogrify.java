@@ -14,6 +14,11 @@ public class Transmogrify {
 interface Actor{
 	void act();
 	void adaa();
+	
+	
+	asdfasdf
+	asdfasdfa
+	asdfasdfsda
 
 adsfasdfasdfasdfasd
 asdfasdf
