@@ -9,6 +9,7 @@ public class Transmogrify {
 		s.go();
 	}
 	asdfasdfasdfasjlkdfh
+	asdfasdfasdfasdfasdf
 }asdffffsdfasdfasd
 interface Actor{
 	void act();
