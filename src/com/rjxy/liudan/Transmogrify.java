@@ -8,24 +8,10 @@ public class Transmogrify {
 		s.change();
 		s.go();
 	}
-	asdfasdfasdfasjlkdfh
-	asdfasdfasdfasdfasdf
-}asdffffsdfasdfasd
+}
 interface Actor{
 	void act();
 	void adaa();
-	
-	
-	asdfasdf
-	asdfasdfa
-	asdfasdfsda
-
-adsfasdfasdfasdfasd
-asdfasdf
-asdfas
-dfasdfa
-asdfa
-asdfa
 }
 
 class HappyActor implements Actor{
