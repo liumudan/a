@@ -16,6 +16,11 @@ interface Actor{
 	void adaa();
 
 adsfasdfasdfasdfasd
+asdfasdf
+asdfas
+dfasdfa
+asdfa
+asdfa
 }
 
 class HappyActor implements Actor{
