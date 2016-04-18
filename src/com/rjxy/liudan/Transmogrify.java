@@ -8,9 +8,10 @@ public class Transmogrify {
 		s.change();
 		s.go();
 	}
-}
+}asdffffsdfasdfasd
 interface Actor{
 	void act();
+	void adaa();
 }
 
 class HappyActor implements Actor{
@@ -19,14 +20,23 @@ class HappyActor implements Actor{
 	public void act() {
 		System.out.println("HappyActor");
 	}
+
+	@Override
+	public void adaa() {
+		
+	}
 }
 
 class SadActor implements Actor{
 
 	@Override
 	public void act() {
-		// TODO Auto-generated method stub
 		System.out.println("SadActor");
+	}
+
+	@Override
+	public void adaa() {
+		
 	}
 }
 
